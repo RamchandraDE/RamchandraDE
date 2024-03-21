@@ -1,7 +1,7 @@
 #<h1>Hi, I'm Ram! 👋
 ## Thanks for stopping by. Here's a little bit about myself...
 
-I am Data Engineer | Data Modeling
+## I am Data Engineer 
 
 
 - 👀 I’m interested in Big Data, Data Analysis and Data Engineering.
@@ -21,8 +21,10 @@ I am Data Engineer | Data Modeling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/josephmachado1991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/josephmachado1991/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandrade0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/josephmachado1991/" height="30" width="40" /></a>
 
+ 
+- 📫 You can reach me through [Ram.data9136@gmail.com]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -48,13 +50,7 @@ I am Data Engineer | Data Modeling
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70"/> </a> </p>
 
 
+#
 
-[<img align="left" alt="chandra. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="r_c_r02 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[linkedin]: https://www.linkedin.com/in/chandrade0/
-[instagram]: https://www.instagram.com/r_c_r_02/
-
-
+# Data Engineering Projects
 
